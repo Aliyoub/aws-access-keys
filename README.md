@@ -1,4 +1,4 @@
-# MISE EN PLACE DES CLES D'ACCES D'UN COMPTE UTILISATEUR
+# Mise en place des clés d'un compte utilisateur
 Les clés d'accès, contrairement aux paires de clés, ne servent pas pour la connexion ssh.
 Les clés d'accès sont utilisées de façon programmatique pour s'authentifier afin d'utiliser les services AWS.
 Terraform par exemple, usera de ces accès pour déployer une instance sur AWS.
